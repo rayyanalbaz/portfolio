@@ -10,10 +10,4 @@ img, video, audio, iframe, table, form {
 .row {
   margin-bottom: 20px;
 }
-#blue {
-	background-color: #405d8c;
-}
 
-#hide {
-	visibility: hidden;
-}
