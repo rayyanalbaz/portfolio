@@ -1,0 +1,19 @@
+/*/////// MEDIA ////////*/
+
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+/*/////// Layput styles ////////*/
+
+.row {
+  margin-bottom: 20px;
+}
+#blue {
+	background-color: #405d8c;
+}
+
+#hide {
+	visibility: hidden;
+}
