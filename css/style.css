@@ -11,3 +11,7 @@ img, video, audio, iframe, table, form {
   margin-bottom: 20px;
 }
 
+#hide {
+	visibility: hidden;
+	display: none;
+}
