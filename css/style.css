@@ -11,7 +11,16 @@ img, video, audio, iframe, table, form {
   margin-bottom: 20px;
 }
 
-#hide {
-	visibility: hidden;
-	display: none;
+.bg-blue {
+  background-color: #1D3557;
+}
+.bg-red {
+  background-color: #E63946;
+}
+.badge-cool {
+  background-color: #2B8FCA ;
+  color:#F1FAEE;
+}
+.cool2 {
+  color: #A8DADC;
 }
