@@ -12,15 +12,21 @@ img, video, audio, iframe, table, form {
 }
 
 .bg-blue {
-  background-color: #1D3557;
+  background-color: #003049;
 }
 .bg-red {
-  background-color: #E63946;
+  background-color: #FE5F55;
 }
 .badge-cool {
   background-color: #2B8FCA ;
   color:#F1FAEE;
 }
 .cool2 {
-  color: #A8DADC;
+  color: #F5E0B7;
+}
+.bg-hehe {
+  background-color: #494949;
+}
+.st {
+	color: #25252A;
 }
