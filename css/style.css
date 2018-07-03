@@ -7,7 +7,7 @@ img, video, audio, iframe, table, form {
 
 /*/////// Layput styles ////////*/
 
-.row {
+.row { 
   margin-bottom: 20px;
 }
 
@@ -15,7 +15,7 @@ img, video, audio, iframe, table, form {
   background-color: #003049;
 }
 .bg-red {
-  background-color: #FE5F55; 
+  background-color: #FE5F55;
 }
 .badge-cool {
   background-color: #2B8FCA ;
